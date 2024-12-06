@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/amazon-clone/static/css/main.f3695f8a.css",
+    "main.js": "/amazon-clone/static/js/main.b38be7d6.js",
+    "static/media/new_arrival_toys.jpg": "/amazon-clone/static/media/new_arrival_toys.2f5cc63b7e4512dd2789.jpg",
+    "static/media/shop_books.jpg": "/amazon-clone/static/media/shop_books.41e098e913c92f4b5e62.jpg",
+    "static/media/game_store.jpg": "/amazon-clone/static/media/game_store.d502bdbc71338430ae2f.jpg",
+    "static/media/beauty_products.jpg": "/amazon-clone/static/media/beauty_products.790aa326a0289d11bf79.jpg",
+    "static/media/amazon_letter_white_logo.png": "/amazon-clone/static/media/amazon_letter_white_logo.c258172cbbfae08cdc8d.png",
+    "static/media/kitchen_fav.jpg": "/amazon-clone/static/media/kitchen_fav.3dfbbb89ca06190b768b.jpg",
+    "static/media/amazon_letter_logo.png": "/amazon-clone/static/media/amazon_letter_logo.40c5e06e507f38062375.png",
+    "index.html": "/amazon-clone/index.html",
+    "main.f3695f8a.css.map": "/amazon-clone/static/css/main.f3695f8a.css.map",
+    "main.b38be7d6.js.map": "/amazon-clone/static/js/main.b38be7d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3695f8a.css",
+    "static/js/main.b38be7d6.js"
+  ]
+}
